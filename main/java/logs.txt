@@ -1,0 +1,1985 @@
+[2025-04-11 22:43:51] El jugador ha elegido la clase Guerrero.
+[2025-04-11 22:43:51] Ha aparecido Lobo Salvaje
+[2025-04-11 22:43:52] Ha aparecido Guerrero Oscuro
+[2025-04-11 22:43:53] Guerrero Oscuro recibe 8 puntos de daño.
+[2025-04-11 22:43:53] Vida restate de Guerrero Oscuro: 122
+[2025-04-11 22:43:53] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:53] Turno de Solaire de Astora
+[2025-04-11 22:43:53] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:43:53] Vida restate de Solaire de Astora: 142
+[2025-04-11 22:43:53] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 22:43:53] Turno de Guerrero Oscuro
+[2025-04-11 22:43:54] Guerrero Oscuro recibe 8 puntos de daño.
+[2025-04-11 22:43:54] Vida restate de Guerrero Oscuro: 114
+[2025-04-11 22:43:54] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:54] Turno de Solaire de Astora
+[2025-04-11 22:43:54] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:43:54] Vida restate de Solaire de Astora: 134
+[2025-04-11 22:43:54] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:43:54] Turno de Guerrero Oscuro
+[2025-04-11 22:43:54] Guerrero Oscuro recibe 8 puntos de daño.
+[2025-04-11 22:43:54] Vida restate de Guerrero Oscuro: 106
+[2025-04-11 22:43:54] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:54] Turno de Solaire de Astora
+[2025-04-11 22:43:54] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:43:54] Vida restate de Solaire de Astora: 126
+[2025-04-11 22:43:54] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 22:43:54] Turno de Guerrero Oscuro
+[2025-04-11 22:43:54] Guerrero Oscuro recibe 8 puntos de daño.
+[2025-04-11 22:43:54] Vida restate de Guerrero Oscuro: 98
+[2025-04-11 22:43:54] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:54] Turno de Solaire de Astora
+[2025-04-11 22:43:54] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:43:54] Vida restate de Solaire de Astora: 118
+[2025-04-11 22:43:54] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:43:54] Turno de Guerrero Oscuro
+[2025-04-11 22:43:55] Guerrero Oscuro recibe 8 puntos de daño.
+[2025-04-11 22:43:55] Vida restate de Guerrero Oscuro: 90
+[2025-04-11 22:43:55] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:55] Turno de Solaire de Astora
+[2025-04-11 22:43:55] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:43:55] Vida restate de Solaire de Astora: 110
+[2025-04-11 22:43:55] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:43:55] Turno de Guerrero Oscuro
+[2025-04-11 22:43:55] Guerrero Oscuro recibe 8 puntos de daño.
+[2025-04-11 22:43:55] Vida restate de Guerrero Oscuro: 82
+[2025-04-11 22:43:55] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:55] Turno de Solaire de Astora
+[2025-04-11 22:43:55] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 22:43:55] Turno de Guerrero Oscuro
+[2025-04-11 22:43:56] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:43:56] Vida restate de Guerrero Oscuro: 78
+[2025-04-11 22:43:56] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:56] Turno de Solaire de Astora
+[2025-04-11 22:43:56] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 22:43:56] Turno de Guerrero Oscuro
+[2025-04-11 22:43:56] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:43:56] Vida restate de Guerrero Oscuro: 74
+[2025-04-11 22:43:56] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:56] Turno de Solaire de Astora
+[2025-04-11 22:43:56] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:43:56] Vida restate de Solaire de Astora: 102
+[2025-04-11 22:43:56] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:43:56] Turno de Guerrero Oscuro
+[2025-04-11 22:43:57] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:43:57] Vida restate de Guerrero Oscuro: 70
+[2025-04-11 22:43:57] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:57] Turno de Solaire de Astora
+[2025-04-11 22:43:57] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 22:43:57] Turno de Guerrero Oscuro
+[2025-04-11 22:43:57] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:43:57] Vida restate de Guerrero Oscuro: 66
+[2025-04-11 22:43:57] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:57] Turno de Solaire de Astora
+[2025-04-11 22:43:57] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:43:57] Vida restate de Solaire de Astora: 94
+[2025-04-11 22:43:57] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 22:43:57] Turno de Guerrero Oscuro
+[2025-04-11 22:43:58] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:43:58] Vida restate de Guerrero Oscuro: 62
+[2025-04-11 22:43:58] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:58] Turno de Solaire de Astora
+[2025-04-11 22:43:58] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:43:58] Vida restate de Solaire de Astora: 86
+[2025-04-11 22:43:58] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:43:58] Turno de Guerrero Oscuro
+[2025-04-11 22:43:58] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:43:58] Vida restate de Guerrero Oscuro: 58
+[2025-04-11 22:43:58] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:58] Turno de Solaire de Astora
+[2025-04-11 22:43:58] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 22:43:58] Turno de Guerrero Oscuro
+[2025-04-11 22:43:59] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:43:59] Vida restate de Guerrero Oscuro: 54
+[2025-04-11 22:43:59] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:59] Turno de Solaire de Astora
+[2025-04-11 22:43:59] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 22:43:59] Turno de Guerrero Oscuro
+[2025-04-11 22:43:59] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:43:59] Vida restate de Guerrero Oscuro: 50
+[2025-04-11 22:43:59] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:43:59] Turno de Solaire de Astora
+[2025-04-11 22:43:59] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 22:43:59] Turno de Guerrero Oscuro
+[2025-04-11 22:44:00] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:00] Vida restate de Guerrero Oscuro: 46
+[2025-04-11 22:44:00] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:00] Turno de Solaire de Astora
+[2025-04-11 22:44:00] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:44:00] Vida restate de Solaire de Astora: 78
+[2025-04-11 22:44:00] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:44:00] Turno de Guerrero Oscuro
+[2025-04-11 22:44:02] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:02] Vida restate de Guerrero Oscuro: 42
+[2025-04-11 22:44:02] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:02] Turno de Solaire de Astora
+[2025-04-11 22:44:02] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 22:44:02] Turno de Guerrero Oscuro
+[2025-04-11 22:44:02] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:02] Vida restate de Guerrero Oscuro: 38
+[2025-04-11 22:44:02] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:02] Turno de Solaire de Astora
+[2025-04-11 22:44:02] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 22:44:02] Turno de Guerrero Oscuro
+[2025-04-11 22:44:03] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:03] Vida restate de Guerrero Oscuro: 34
+[2025-04-11 22:44:03] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:03] Turno de Solaire de Astora
+[2025-04-11 22:44:03] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:44:03] Vida restate de Solaire de Astora: 70
+[2025-04-11 22:44:03] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:44:03] Turno de Guerrero Oscuro
+[2025-04-11 22:44:05] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:05] Vida restate de Guerrero Oscuro: 30
+[2025-04-11 22:44:05] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:05] Turno de Solaire de Astora
+[2025-04-11 22:44:05] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:44:05] Vida restate de Solaire de Astora: 62
+[2025-04-11 22:44:05] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:44:05] Turno de Guerrero Oscuro
+[2025-04-11 22:44:07] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:07] Vida restate de Guerrero Oscuro: 26
+[2025-04-11 22:44:07] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:07] Turno de Solaire de Astora
+[2025-04-11 22:44:07] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:44:07] Vida restate de Solaire de Astora: 54
+[2025-04-11 22:44:07] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:44:07] Turno de Guerrero Oscuro
+[2025-04-11 22:44:08] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:08] Vida restate de Guerrero Oscuro: 22
+[2025-04-11 22:44:08] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:08] Turno de Solaire de Astora
+[2025-04-11 22:44:08] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:44:08] Vida restate de Solaire de Astora: 46
+[2025-04-11 22:44:08] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 22:44:08] Turno de Guerrero Oscuro
+[2025-04-11 22:44:09] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:09] Vida restate de Guerrero Oscuro: 18
+[2025-04-11 22:44:09] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:09] Turno de Solaire de Astora
+[2025-04-11 22:44:09] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:44:09] Vida restate de Solaire de Astora: 38
+[2025-04-11 22:44:09] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:44:09] Turno de Guerrero Oscuro
+[2025-04-11 22:44:09] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:09] Vida restate de Guerrero Oscuro: 14
+[2025-04-11 22:44:09] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:09] Turno de Solaire de Astora
+[2025-04-11 22:44:09] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:44:09] Vida restate de Solaire de Astora: 30
+[2025-04-11 22:44:09] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 22:44:09] Turno de Guerrero Oscuro
+[2025-04-11 22:44:10] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:10] Vida restate de Guerrero Oscuro: 10
+[2025-04-11 22:44:10] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:10] Turno de Solaire de Astora
+[2025-04-11 22:44:10] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 22:44:10] Turno de Guerrero Oscuro
+[2025-04-11 22:44:11] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:11] Vida restate de Guerrero Oscuro: 6
+[2025-04-11 22:44:11] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:11] Turno de Solaire de Astora
+[2025-04-11 22:44:11] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 22:44:11] Turno de Guerrero Oscuro
+[2025-04-11 22:44:12] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:12] Vida restate de Guerrero Oscuro: 2
+[2025-04-11 22:44:12] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:12] Turno de Solaire de Astora
+[2025-04-11 22:44:12] Solaire de Astora recibe 8 puntos de daño.
+[2025-04-11 22:44:12] Vida restate de Solaire de Astora: 22
+[2025-04-11 22:44:12] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 22:44:12] Turno de Guerrero Oscuro
+[2025-04-11 22:44:13] Guerrero Oscuro recibe 4 puntos de daño.
+[2025-04-11 22:44:13] Vida restate de Guerrero Oscuro: -2
+[2025-04-11 22:44:13] Solaire de Astora usa su ataque especial.
+[2025-04-11 22:44:13] Turno de Solaire de Astora
+[2025-04-11 22:44:13] Guerrero Oscuro ha muerto.
+[2025-04-11 22:44:13] Solaire de Astora entra en el Castillo de Lothdric.
+[2025-04-11 22:44:29] Solaire de Astora regresa al Enlace de Fuego.
+[2025-04-11 23:06:01] El jugador ha elegido la clase Guerrero.
+[2025-04-11 23:06:02] Ha aparecido Lobo Salvaje
+[2025-04-11 23:10:30] El jugador ha elegido la clase Guerrero.
+[2025-04-11 23:10:30] Ha aparecido No Muerto
+[2025-04-11 23:10:30] Ha aparecido Guerrero Oscuro
+[2025-04-11 23:10:32] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-04-11 23:10:32] Vida restante de Guerrero Oscuro: 122
+[2025-04-11 23:10:32] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:32] Turno de Solaire de Astora
+[2025-04-11 23:10:32] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:32] Vida restante de Solaire de Astora: 142
+[2025-04-11 23:10:32] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:32] Turno de Guerrero Oscuro
+[2025-04-11 23:10:33] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-04-11 23:10:33] Vida restante de Guerrero Oscuro: 114
+[2025-04-11 23:10:33] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:33] Turno de Solaire de Astora
+[2025-04-11 23:10:33] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:33] Vida restante de Solaire de Astora: 134
+[2025-04-11 23:10:33] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:33] Turno de Guerrero Oscuro
+[2025-04-11 23:10:34] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-04-11 23:10:34] Vida restante de Guerrero Oscuro: 106
+[2025-04-11 23:10:34] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:34] Turno de Solaire de Astora
+[2025-04-11 23:10:34] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:34] Vida restante de Solaire de Astora: 126
+[2025-04-11 23:10:34] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:34] Turno de Guerrero Oscuro
+[2025-04-11 23:10:34] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-04-11 23:10:34] Vida restante de Guerrero Oscuro: 98
+[2025-04-11 23:10:34] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:34] Turno de Solaire de Astora
+[2025-04-11 23:10:34] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:34] Vida restante de Solaire de Astora: 118
+[2025-04-11 23:10:34] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:34] Turno de Guerrero Oscuro
+[2025-04-11 23:10:34] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-04-11 23:10:34] Vida restante de Guerrero Oscuro: 90
+[2025-04-11 23:10:34] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:34] Turno de Solaire de Astora
+[2025-04-11 23:10:34] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:34] Vida restante de Solaire de Astora: 110
+[2025-04-11 23:10:34] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:34] Turno de Guerrero Oscuro
+[2025-04-11 23:10:35] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-04-11 23:10:35] Vida restante de Guerrero Oscuro: 82
+[2025-04-11 23:10:35] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:35] Turno de Solaire de Astora
+[2025-04-11 23:10:35] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:35] Vida restante de Solaire de Astora: 102
+[2025-04-11 23:10:35] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:35] Turno de Guerrero Oscuro
+[2025-04-11 23:10:35] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-04-11 23:10:35] Vida restante de Guerrero Oscuro: 74
+[2025-04-11 23:10:35] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:35] Turno de Solaire de Astora
+[2025-04-11 23:10:35] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:35] Vida restante de Solaire de Astora: 94
+[2025-04-11 23:10:35] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 23:10:35] Turno de Guerrero Oscuro
+[2025-04-11 23:10:36] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-04-11 23:10:36] Vida restante de Guerrero Oscuro: 66
+[2025-04-11 23:10:36] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:36] Turno de Solaire de Astora
+[2025-04-11 23:10:36] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 23:10:36] Turno de Guerrero Oscuro
+[2025-04-11 23:10:36] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:36] Vida restante de Guerrero Oscuro: 62
+[2025-04-11 23:10:36] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:36] Turno de Solaire de Astora
+[2025-04-11 23:10:36] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:36] Vida restante de Solaire de Astora: 86
+[2025-04-11 23:10:36] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 23:10:36] Turno de Guerrero Oscuro
+[2025-04-11 23:10:37] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:37] Vida restante de Guerrero Oscuro: 58
+[2025-04-11 23:10:37] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:37] Turno de Solaire de Astora
+[2025-04-11 23:10:37] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:37] Vida restante de Solaire de Astora: 78
+[2025-04-11 23:10:37] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:37] Turno de Guerrero Oscuro
+[2025-04-11 23:10:37] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:37] Vida restante de Guerrero Oscuro: 54
+[2025-04-11 23:10:37] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:37] Turno de Solaire de Astora
+[2025-04-11 23:10:37] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 23:10:37] Turno de Guerrero Oscuro
+[2025-04-11 23:10:38] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:38] Vida restante de Guerrero Oscuro: 50
+[2025-04-11 23:10:38] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:38] Turno de Solaire de Astora
+[2025-04-11 23:10:38] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:38] Vida restante de Solaire de Astora: 70
+[2025-04-11 23:10:38] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:38] Turno de Guerrero Oscuro
+[2025-04-11 23:10:38] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:38] Vida restante de Guerrero Oscuro: 46
+[2025-04-11 23:10:38] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:38] Turno de Solaire de Astora
+[2025-04-11 23:10:38] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:38] Vida restante de Solaire de Astora: 62
+[2025-04-11 23:10:38] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:38] Turno de Guerrero Oscuro
+[2025-04-11 23:10:38] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:38] Vida restante de Guerrero Oscuro: 42
+[2025-04-11 23:10:38] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:38] Turno de Solaire de Astora
+[2025-04-11 23:10:38] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:38] Vida restante de Solaire de Astora: 54
+[2025-04-11 23:10:38] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:38] Turno de Guerrero Oscuro
+[2025-04-11 23:10:39] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:39] Vida restante de Guerrero Oscuro: 38
+[2025-04-11 23:10:39] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:39] Turno de Solaire de Astora
+[2025-04-11 23:10:39] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 23:10:39] Turno de Guerrero Oscuro
+[2025-04-11 23:10:39] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:39] Vida restante de Guerrero Oscuro: 34
+[2025-04-11 23:10:39] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:39] Turno de Solaire de Astora
+[2025-04-11 23:10:39] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:39] Vida restante de Solaire de Astora: 46
+[2025-04-11 23:10:39] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 23:10:39] Turno de Guerrero Oscuro
+[2025-04-11 23:10:40] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:40] Vida restante de Guerrero Oscuro: 30
+[2025-04-11 23:10:40] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:40] Turno de Solaire de Astora
+[2025-04-11 23:10:40] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:40] Vida restante de Solaire de Astora: 38
+[2025-04-11 23:10:40] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:40] Turno de Guerrero Oscuro
+[2025-04-11 23:10:40] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:40] Vida restante de Guerrero Oscuro: 26
+[2025-04-11 23:10:40] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:40] Turno de Solaire de Astora
+[2025-04-11 23:10:40] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:40] Vida restante de Solaire de Astora: 30
+[2025-04-11 23:10:40] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:40] Turno de Guerrero Oscuro
+[2025-04-11 23:10:41] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:41] Vida restante de Guerrero Oscuro: 22
+[2025-04-11 23:10:41] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:41] Turno de Solaire de Astora
+[2025-04-11 23:10:41] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:41] Vida restante de Solaire de Astora: 22
+[2025-04-11 23:10:41] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:41] Turno de Guerrero Oscuro
+[2025-04-11 23:10:41] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:41] Vida restante de Guerrero Oscuro: 18
+[2025-04-11 23:10:41] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:41] Turno de Solaire de Astora
+[2025-04-11 23:10:41] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 23:10:41] Turno de Guerrero Oscuro
+[2025-04-11 23:10:43] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:43] Vida restante de Guerrero Oscuro: 14
+[2025-04-11 23:10:43] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:43] Turno de Solaire de Astora
+[2025-04-11 23:10:43] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:43] Vida restante de Solaire de Astora: 14
+[2025-04-11 23:10:43] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 23:10:43] Turno de Guerrero Oscuro
+[2025-04-11 23:10:45] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:45] Vida restante de Guerrero Oscuro: 10
+[2025-04-11 23:10:45] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:45] Turno de Solaire de Astora
+[2025-04-11 23:10:45] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-04-11 23:10:45] Vida restante de Solaire de Astora: 6
+[2025-04-11 23:10:45] Guerrero Oscuro usa su ataque especial.
+[2025-04-11 23:10:45] Turno de Guerrero Oscuro
+[2025-04-11 23:10:47] Solaire de Astora se defiende de Guerrero Oscuro
+[2025-04-11 23:10:47] Turno de Solaire de Astora
+[2025-04-11 23:10:47] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 23:10:47] Turno de Guerrero Oscuro
+[2025-04-11 23:10:48] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:48] Vida restante de Guerrero Oscuro: 6
+[2025-04-11 23:10:48] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:48] Turno de Solaire de Astora
+[2025-04-11 23:10:48] Solaire de Astora ha recibido 4 puntos de daño.
+[2025-04-11 23:10:48] Vida restante de Solaire de Astora: 2
+[2025-04-11 23:10:48] Guerrero Oscuro ataca a Solaire de Astora
+[2025-04-11 23:10:48] Turno de Guerrero Oscuro
+[2025-04-11 23:10:49] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-04-11 23:10:49] Vida restante de Guerrero Oscuro: 2
+[2025-04-11 23:10:49] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:49] Turno de Solaire de Astora
+[2025-04-11 23:10:49] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-04-11 23:10:49] Turno de Guerrero Oscuro
+[2025-04-11 23:10:51] EVENTO: Guerrero Oscuro ha sido derrotado.
+[2025-04-11 23:10:51] Solaire de Astora usa su ataque especial.
+[2025-04-11 23:10:51] Turno de Solaire de Astora
+[2025-04-11 23:10:51] Guerrero Oscuro ha muerto.
+[2025-04-11 23:10:51] Solaire de Astora entra en el Castillo de Lothdric.
+[2025-04-11 23:10:57] Solaire de Astora regresa al Enlace de Fuego.
+[2025-05-09 21:06:49] El jugador ha elegido la clase Guerrero.
+[2025-05-09 21:06:49] Ha aparecido No Muerto
+[2025-05-09 21:06:52] Ha aparecido Guerrero Oscuro
+[2025-05-09 21:06:59] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:06:59] Vida restante de Guerrero Oscuro: 122
+[2025-05-09 21:06:59] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:06:59] Turno de Solaire de Astora
+[2025-05-09 21:06:59] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:06:59] Vida restante de Solaire de Astora: 142
+[2025-05-09 21:06:59] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 21:06:59] Turno de Guerrero Oscuro
+[2025-05-09 21:07:00] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:07:00] Vida restante de Guerrero Oscuro: 114
+[2025-05-09 21:07:00] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:00] Turno de Solaire de Astora
+[2025-05-09 21:07:00] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:00] Vida restante de Solaire de Astora: 134
+[2025-05-09 21:07:00] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 21:07:00] Turno de Guerrero Oscuro
+[2025-05-09 21:07:01] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:07:01] Vida restante de Guerrero Oscuro: 106
+[2025-05-09 21:07:01] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:01] Turno de Solaire de Astora
+[2025-05-09 21:07:01] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:01] Vida restante de Solaire de Astora: 126
+[2025-05-09 21:07:01] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 21:07:01] Turno de Guerrero Oscuro
+[2025-05-09 21:07:01] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:07:01] Vida restante de Guerrero Oscuro: 98
+[2025-05-09 21:07:01] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:01] Turno de Solaire de Astora
+[2025-05-09 21:07:01] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:01] Vida restante de Solaire de Astora: 118
+[2025-05-09 21:07:01] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 21:07:01] Turno de Guerrero Oscuro
+[2025-05-09 21:07:02] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:07:02] Vida restante de Guerrero Oscuro: 90
+[2025-05-09 21:07:02] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:02] Turno de Solaire de Astora
+[2025-05-09 21:07:02] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:02] Vida restante de Solaire de Astora: 110
+[2025-05-09 21:07:02] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 21:07:02] Turno de Guerrero Oscuro
+[2025-05-09 21:07:02] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:07:02] Vida restante de Guerrero Oscuro: 82
+[2025-05-09 21:07:02] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:02] Turno de Solaire de Astora
+[2025-05-09 21:07:02] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:02] Vida restante de Solaire de Astora: 102
+[2025-05-09 21:07:02] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 21:07:02] Turno de Guerrero Oscuro
+[2025-05-09 21:07:03] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:07:03] Vida restante de Guerrero Oscuro: 74
+[2025-05-09 21:07:03] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:03] Turno de Solaire de Astora
+[2025-05-09 21:07:03] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:03] Vida restante de Solaire de Astora: 94
+[2025-05-09 21:07:03] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 21:07:03] Turno de Guerrero Oscuro
+[2025-05-09 21:07:03] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:07:03] Vida restante de Guerrero Oscuro: 66
+[2025-05-09 21:07:03] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:03] Turno de Solaire de Astora
+[2025-05-09 21:07:03] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:03] Vida restante de Solaire de Astora: 86
+[2025-05-09 21:07:03] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 21:07:03] Turno de Guerrero Oscuro
+[2025-05-09 21:07:04] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:07:04] Vida restante de Guerrero Oscuro: 58
+[2025-05-09 21:07:04] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:04] Turno de Solaire de Astora
+[2025-05-09 21:07:04] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:04] Vida restante de Solaire de Astora: 78
+[2025-05-09 21:07:04] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 21:07:04] Turno de Guerrero Oscuro
+[2025-05-09 21:07:04] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:07:04] Vida restante de Guerrero Oscuro: 50
+[2025-05-09 21:07:04] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:04] Turno de Solaire de Astora
+[2025-05-09 21:07:04] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:04] Vida restante de Solaire de Astora: 70
+[2025-05-09 21:07:04] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 21:07:04] Turno de Guerrero Oscuro
+[2025-05-09 21:07:05] Guerrero Oscuro ha recibido 8 puntos de daño.
+[2025-05-09 21:07:05] Vida restante de Guerrero Oscuro: 42
+[2025-05-09 21:07:05] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:05] Turno de Solaire de Astora
+[2025-05-09 21:07:05] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 21:07:05] Turno de Guerrero Oscuro
+[2025-05-09 21:07:05] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-05-09 21:07:05] Vida restante de Guerrero Oscuro: 38
+[2025-05-09 21:07:05] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:05] Turno de Solaire de Astora
+[2025-05-09 21:07:05] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:05] Vida restante de Solaire de Astora: 62
+[2025-05-09 21:07:05] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 21:07:05] Turno de Guerrero Oscuro
+[2025-05-09 21:07:06] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-05-09 21:07:06] Vida restante de Guerrero Oscuro: 34
+[2025-05-09 21:07:06] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:06] Turno de Solaire de Astora
+[2025-05-09 21:07:06] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:06] Vida restante de Solaire de Astora: 54
+[2025-05-09 21:07:06] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 21:07:06] Turno de Guerrero Oscuro
+[2025-05-09 21:07:07] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-05-09 21:07:07] Vida restante de Guerrero Oscuro: 30
+[2025-05-09 21:07:07] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:07] Turno de Solaire de Astora
+[2025-05-09 21:07:07] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:07] Vida restante de Solaire de Astora: 46
+[2025-05-09 21:07:07] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 21:07:07] Turno de Guerrero Oscuro
+[2025-05-09 21:07:07] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-05-09 21:07:07] Vida restante de Guerrero Oscuro: 26
+[2025-05-09 21:07:07] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:07] Turno de Solaire de Astora
+[2025-05-09 21:07:07] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 21:07:07] Turno de Guerrero Oscuro
+[2025-05-09 21:07:08] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-05-09 21:07:08] Vida restante de Guerrero Oscuro: 22
+[2025-05-09 21:07:08] Solaire de Astora usa su ataque especial.
+[2025-05-09 21:07:08] Turno de Solaire de Astora
+[2025-05-09 21:07:08] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:08] Vida restante de Solaire de Astora: 38
+[2025-05-09 21:07:08] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 21:07:08] Turno de Guerrero Oscuro
+[2025-05-09 21:07:08] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-05-09 21:07:08] Vida restante de Guerrero Oscuro: 18
+[2025-05-09 21:07:08] Solaire de Astora usa su ataque especial.
+[2025-05-09 21:07:08] Turno de Solaire de Astora
+[2025-05-09 21:07:08] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:08] Vida restante de Solaire de Astora: 30
+[2025-05-09 21:07:08] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 21:07:08] Turno de Guerrero Oscuro
+[2025-05-09 21:07:09] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-05-09 21:07:09] Vida restante de Guerrero Oscuro: 14
+[2025-05-09 21:07:09] Solaire de Astora usa su ataque especial.
+[2025-05-09 21:07:09] Turno de Solaire de Astora
+[2025-05-09 21:07:09] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 21:07:09] Turno de Guerrero Oscuro
+[2025-05-09 21:07:10] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-05-09 21:07:10] Vida restante de Guerrero Oscuro: 10
+[2025-05-09 21:07:10] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:10] Turno de Solaire de Astora
+[2025-05-09 21:07:10] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:10] Vida restante de Solaire de Astora: 22
+[2025-05-09 21:07:10] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 21:07:10] Turno de Guerrero Oscuro
+[2025-05-09 21:07:11] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-05-09 21:07:11] Vida restante de Guerrero Oscuro: 6
+[2025-05-09 21:07:11] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:11] Turno de Solaire de Astora
+[2025-05-09 21:07:11] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:11] Vida restante de Solaire de Astora: 14
+[2025-05-09 21:07:11] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 21:07:11] Turno de Guerrero Oscuro
+[2025-05-09 21:07:12] Guerrero Oscuro ha recibido 4 puntos de daño.
+[2025-05-09 21:07:12] Vida restante de Guerrero Oscuro: 2
+[2025-05-09 21:07:12] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 21:07:12] Turno de Solaire de Astora
+[2025-05-09 21:07:12] Solaire de Astora ha recibido 8 puntos de daño.
+[2025-05-09 21:07:12] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:12] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 21:07:12] Turno de Guerrero Oscuro
+[2025-05-09 21:07:14] EVENTO: Guerrero Oscuro ha sido derrotado.
+[2025-05-09 21:07:14] Turno de Solaire de Astora
+[2025-05-09 21:07:14] Guerrero Oscuro ha muerto.
+[2025-05-09 21:07:14] Solaire de Astora entra en el Castillo de Lothdric.
+[2025-05-09 21:07:27] Ha aparecido Lobo Salvaje
+[2025-05-09 21:07:27] Solaire de Astora ha recibido 0 puntos de daño.
+[2025-05-09 21:07:27] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:27] Lobo Salvaje usa su ataque especial.
+[2025-05-09 21:07:27] Turno de Solaire de Astora
+[2025-05-09 21:07:28] Lobo Salvaje ha recibido 13 puntos de daño.
+[2025-05-09 21:07:28] Vida restante de Lobo Salvaje: 67
+[2025-05-09 21:07:28] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:28] Turno de Lobo Salvaje
+[2025-05-09 21:07:28] Lobo Salvaje se defiende de Solaire de Astora
+[2025-05-09 21:07:28] Turno de Solaire de Astora
+[2025-05-09 21:07:29] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:29] Vida restante de Lobo Salvaje: 61
+[2025-05-09 21:07:29] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:29] Turno de Lobo Salvaje
+[2025-05-09 21:07:29] Solaire de Astora ha recibido 0 puntos de daño.
+[2025-05-09 21:07:29] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:29] Lobo Salvaje usa su ataque especial.
+[2025-05-09 21:07:29] Turno de Solaire de Astora
+[2025-05-09 21:07:30] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:30] Vida restante de Lobo Salvaje: 55
+[2025-05-09 21:07:30] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:30] Turno de Lobo Salvaje
+[2025-05-09 21:07:30] Solaire de Astora ha recibido 0 puntos de daño.
+[2025-05-09 21:07:30] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:30] Lobo Salvaje usa su ataque especial.
+[2025-05-09 21:07:30] Turno de Solaire de Astora
+[2025-05-09 21:07:30] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:30] Vida restante de Lobo Salvaje: 49
+[2025-05-09 21:07:30] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:30] Turno de Lobo Salvaje
+[2025-05-09 21:07:30] Solaire de Astora ha recibido 0 puntos de daño.
+[2025-05-09 21:07:30] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:30] Lobo Salvaje ataca a Solaire de Astora
+[2025-05-09 21:07:30] Turno de Solaire de Astora
+[2025-05-09 21:07:31] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:31] Vida restante de Lobo Salvaje: 43
+[2025-05-09 21:07:31] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:31] Turno de Lobo Salvaje
+[2025-05-09 21:07:31] Solaire de Astora ha recibido 0 puntos de daño.
+[2025-05-09 21:07:31] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:31] Lobo Salvaje usa su ataque especial.
+[2025-05-09 21:07:31] Turno de Solaire de Astora
+[2025-05-09 21:07:31] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:31] Vida restante de Lobo Salvaje: 37
+[2025-05-09 21:07:31] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:31] Turno de Lobo Salvaje
+[2025-05-09 21:07:31] Solaire de Astora ha recibido 0 puntos de daño.
+[2025-05-09 21:07:31] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:31] Lobo Salvaje ataca a Solaire de Astora
+[2025-05-09 21:07:31] Turno de Solaire de Astora
+[2025-05-09 21:07:32] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:32] Vida restante de Lobo Salvaje: 31
+[2025-05-09 21:07:32] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:32] Turno de Lobo Salvaje
+[2025-05-09 21:07:32] Lobo Salvaje se defiende de Solaire de Astora
+[2025-05-09 21:07:32] Turno de Solaire de Astora
+[2025-05-09 21:07:32] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:32] Vida restante de Lobo Salvaje: 25
+[2025-05-09 21:07:32] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:32] Turno de Lobo Salvaje
+[2025-05-09 21:07:32] Solaire de Astora ha recibido 0 puntos de daño.
+[2025-05-09 21:07:32] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:32] Lobo Salvaje ataca a Solaire de Astora
+[2025-05-09 21:07:32] Turno de Solaire de Astora
+[2025-05-09 21:07:33] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:33] Vida restante de Lobo Salvaje: 19
+[2025-05-09 21:07:33] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:33] Turno de Lobo Salvaje
+[2025-05-09 21:07:33] Solaire de Astora ha recibido 0 puntos de daño.
+[2025-05-09 21:07:33] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:33] Lobo Salvaje ataca a Solaire de Astora
+[2025-05-09 21:07:33] Turno de Solaire de Astora
+[2025-05-09 21:07:33] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:33] Vida restante de Lobo Salvaje: 13
+[2025-05-09 21:07:33] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:33] Turno de Lobo Salvaje
+[2025-05-09 21:07:33] Solaire de Astora ha recibido 0 puntos de daño.
+[2025-05-09 21:07:33] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:33] Lobo Salvaje usa su ataque especial.
+[2025-05-09 21:07:33] Turno de Solaire de Astora
+[2025-05-09 21:07:33] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:33] Vida restante de Lobo Salvaje: 7
+[2025-05-09 21:07:33] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:33] Turno de Lobo Salvaje
+[2025-05-09 21:07:33] Lobo Salvaje se defiende de Solaire de Astora
+[2025-05-09 21:07:33] Turno de Solaire de Astora
+[2025-05-09 21:07:34] Lobo Salvaje ha recibido 6 puntos de daño.
+[2025-05-09 21:07:34] Vida restante de Lobo Salvaje: 1
+[2025-05-09 21:07:34] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 21:07:34] Turno de Lobo Salvaje
+[2025-05-09 21:07:34] Solaire de Astora ha recibido 0 puntos de daño.
+[2025-05-09 21:07:34] Vida restante de Solaire de Astora: 6
+[2025-05-09 21:07:34] Lobo Salvaje usa su ataque especial.
+[2025-05-09 21:07:34] Turno de Solaire de Astora
+[2025-05-09 21:07:35] EVENTO: Lobo Salvaje ha sido derrotado.
+[2025-05-09 21:07:35] Turno de Lobo Salvaje
+[2025-05-09 21:07:35] Lobo Salvaje ha muerto.
+[2025-05-09 21:07:35] Solaire de Astora entra en el Camino de los sacrificios.
+[2025-05-09 21:07:37] Solaire de Astora regresa al Enlace de Fuego.
+[2025-05-09 21:52:16] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:52:16] Vida restante de No Muerto: 90
+[2025-05-09 21:52:16] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:52:16] Vida restante de Solaire de Astora: 147
+[2025-05-09 21:52:16] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:52:16] Vida restante de No Muerto: 90
+[2025-05-09 21:52:16] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:52:16] Vida restante de Solaire de Astora: 144
+[2025-05-09 21:52:16] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:52:16] Vida restante de No Muerto: 90
+[2025-05-09 21:52:16] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:52:16] Vida restante de Solaire de Astora: 141
+[2025-05-09 21:52:16] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:52:16] Vida restante de No Muerto: 90
+[2025-05-09 21:52:16] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:52:16] Vida restante de Solaire de Astora: 138
+[2025-05-09 21:52:17] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:52:17] Vida restante de No Muerto: 90
+[2025-05-09 21:52:17] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:52:17] Vida restante de Solaire de Astora: 135
+[2025-05-09 21:52:59] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:52:59] Vida restante de No Muerto: 90
+[2025-05-09 21:52:59] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:52:59] Vida restante de Solaire de Astora: 147
+[2025-05-09 21:52:59] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:52:59] Vida restante de No Muerto: 90
+[2025-05-09 21:52:59] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:52:59] Vida restante de Solaire de Astora: 144
+[2025-05-09 21:52:59] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:52:59] Vida restante de No Muerto: 90
+[2025-05-09 21:52:59] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:52:59] Vida restante de Solaire de Astora: 141
+[2025-05-09 21:52:59] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:52:59] Vida restante de No Muerto: 90
+[2025-05-09 21:52:59] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:52:59] Vida restante de Solaire de Astora: 138
+[2025-05-09 21:53:00] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de No Muerto: 90
+[2025-05-09 21:53:00] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de Solaire de Astora: 135
+[2025-05-09 21:53:00] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de No Muerto: 90
+[2025-05-09 21:53:00] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de Solaire de Astora: 132
+[2025-05-09 21:53:00] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de No Muerto: 90
+[2025-05-09 21:53:00] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de Solaire de Astora: 129
+[2025-05-09 21:53:00] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de No Muerto: 90
+[2025-05-09 21:53:00] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de Solaire de Astora: 126
+[2025-05-09 21:53:00] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de No Muerto: 90
+[2025-05-09 21:53:00] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de Solaire de Astora: 123
+[2025-05-09 21:53:00] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de No Muerto: 90
+[2025-05-09 21:53:00] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de Solaire de Astora: 120
+[2025-05-09 21:53:00] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de No Muerto: 90
+[2025-05-09 21:53:00] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:00] Vida restante de Solaire de Astora: 117
+[2025-05-09 21:53:01] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de No Muerto: 90
+[2025-05-09 21:53:01] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de Solaire de Astora: 114
+[2025-05-09 21:53:01] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de No Muerto: 90
+[2025-05-09 21:53:01] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de Solaire de Astora: 111
+[2025-05-09 21:53:01] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de No Muerto: 90
+[2025-05-09 21:53:01] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de Solaire de Astora: 108
+[2025-05-09 21:53:01] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de No Muerto: 90
+[2025-05-09 21:53:01] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de Solaire de Astora: 105
+[2025-05-09 21:53:01] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de No Muerto: 90
+[2025-05-09 21:53:01] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de Solaire de Astora: 102
+[2025-05-09 21:53:01] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de No Muerto: 90
+[2025-05-09 21:53:01] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:53:01] Vida restante de Solaire de Astora: 99
+[2025-05-09 21:54:41] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:41] Vida restante de No Muerto: 90
+[2025-05-09 21:54:41] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:41] Vida restante de Solaire de Astora: 147
+[2025-05-09 21:54:41] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:41] Vida restante de No Muerto: 90
+[2025-05-09 21:54:41] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:41] Vida restante de Solaire de Astora: 144
+[2025-05-09 21:54:41] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:41] Vida restante de No Muerto: 90
+[2025-05-09 21:54:41] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:41] Vida restante de Solaire de Astora: 141
+[2025-05-09 21:54:41] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:41] Vida restante de No Muerto: 90
+[2025-05-09 21:54:41] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:41] Vida restante de Solaire de Astora: 138
+[2025-05-09 21:54:41] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:41] Vida restante de No Muerto: 90
+[2025-05-09 21:54:41] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:41] Vida restante de Solaire de Astora: 135
+[2025-05-09 21:54:42] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de No Muerto: 90
+[2025-05-09 21:54:42] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de Solaire de Astora: 132
+[2025-05-09 21:54:42] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de No Muerto: 90
+[2025-05-09 21:54:42] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de Solaire de Astora: 129
+[2025-05-09 21:54:42] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de No Muerto: 90
+[2025-05-09 21:54:42] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de Solaire de Astora: 126
+[2025-05-09 21:54:42] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de No Muerto: 90
+[2025-05-09 21:54:42] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de Solaire de Astora: 123
+[2025-05-09 21:54:42] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de No Muerto: 90
+[2025-05-09 21:54:42] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de Solaire de Astora: 120
+[2025-05-09 21:54:42] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de No Muerto: 90
+[2025-05-09 21:54:42] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de Solaire de Astora: 117
+[2025-05-09 21:54:42] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de No Muerto: 90
+[2025-05-09 21:54:42] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:42] Vida restante de Solaire de Astora: 114
+[2025-05-09 21:54:43] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de No Muerto: 90
+[2025-05-09 21:54:43] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de Solaire de Astora: 111
+[2025-05-09 21:54:43] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de No Muerto: 90
+[2025-05-09 21:54:43] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de Solaire de Astora: 108
+[2025-05-09 21:54:43] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de No Muerto: 90
+[2025-05-09 21:54:43] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de Solaire de Astora: 105
+[2025-05-09 21:54:43] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de No Muerto: 90
+[2025-05-09 21:54:43] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de Solaire de Astora: 102
+[2025-05-09 21:54:43] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de No Muerto: 90
+[2025-05-09 21:54:43] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de Solaire de Astora: 99
+[2025-05-09 21:54:43] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de No Muerto: 90
+[2025-05-09 21:54:43] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:43] Vida restante de Solaire de Astora: 96
+[2025-05-09 21:54:44] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:44] Vida restante de No Muerto: 90
+[2025-05-09 21:54:44] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:44] Vida restante de Solaire de Astora: 93
+[2025-05-09 21:54:44] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:44] Vida restante de No Muerto: 90
+[2025-05-09 21:54:44] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:44] Vida restante de Solaire de Astora: 90
+[2025-05-09 21:54:44] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:44] Vida restante de No Muerto: 90
+[2025-05-09 21:54:44] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:44] Vida restante de Solaire de Astora: 87
+[2025-05-09 21:54:44] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:44] Vida restante de No Muerto: 90
+[2025-05-09 21:54:44] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:44] Vida restante de Solaire de Astora: 84
+[2025-05-09 21:54:44] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:44] Vida restante de No Muerto: 90
+[2025-05-09 21:54:44] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:44] Vida restante de Solaire de Astora: 81
+[2025-05-09 21:54:45] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:45] Vida restante de No Muerto: 90
+[2025-05-09 21:54:45] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:45] Vida restante de Solaire de Astora: 78
+[2025-05-09 21:54:45] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:45] Vida restante de No Muerto: 90
+[2025-05-09 21:54:45] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:45] Vida restante de Solaire de Astora: 75
+[2025-05-09 21:54:45] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:45] Vida restante de No Muerto: 90
+[2025-05-09 21:54:45] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:45] Vida restante de Solaire de Astora: 72
+[2025-05-09 21:54:45] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:45] Vida restante de No Muerto: 90
+[2025-05-09 21:54:45] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:45] Vida restante de Solaire de Astora: 69
+[2025-05-09 21:54:46] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:46] Vida restante de No Muerto: 90
+[2025-05-09 21:54:46] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:46] Vida restante de Solaire de Astora: 66
+[2025-05-09 21:54:46] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:46] Vida restante de No Muerto: 90
+[2025-05-09 21:54:46] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:46] Vida restante de Solaire de Astora: 63
+[2025-05-09 21:54:46] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:54:46] Vida restante de No Muerto: 90
+[2025-05-09 21:54:46] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:54:46] Vida restante de Solaire de Astora: 60
+[2025-05-09 21:55:19] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:19] Vida restante de No Muerto: 90
+[2025-05-09 21:55:19] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:19] Vida restante de Solaire de Astora: 147
+[2025-05-09 21:55:19] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:19] Vida restante de No Muerto: 90
+[2025-05-09 21:55:19] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:19] Vida restante de Solaire de Astora: 144
+[2025-05-09 21:55:19] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:19] Vida restante de No Muerto: 90
+[2025-05-09 21:55:19] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:19] Vida restante de Solaire de Astora: 141
+[2025-05-09 21:55:20] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de No Muerto: 90
+[2025-05-09 21:55:20] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de Solaire de Astora: 138
+[2025-05-09 21:55:20] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de No Muerto: 90
+[2025-05-09 21:55:20] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de Solaire de Astora: 135
+[2025-05-09 21:55:20] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de No Muerto: 90
+[2025-05-09 21:55:20] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de Solaire de Astora: 132
+[2025-05-09 21:55:20] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de No Muerto: 90
+[2025-05-09 21:55:20] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de Solaire de Astora: 129
+[2025-05-09 21:55:20] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de No Muerto: 90
+[2025-05-09 21:55:20] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de Solaire de Astora: 126
+[2025-05-09 21:55:20] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de No Muerto: 90
+[2025-05-09 21:55:20] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:20] Vida restante de Solaire de Astora: 123
+[2025-05-09 21:55:21] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:21] Vida restante de No Muerto: 90
+[2025-05-09 21:55:21] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:21] Vida restante de Solaire de Astora: 120
+[2025-05-09 21:55:21] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:21] Vida restante de No Muerto: 90
+[2025-05-09 21:55:21] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:21] Vida restante de Solaire de Astora: 117
+[2025-05-09 21:55:21] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:21] Vida restante de No Muerto: 90
+[2025-05-09 21:55:21] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:21] Vida restante de Solaire de Astora: 114
+[2025-05-09 21:55:21] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:21] Vida restante de No Muerto: 90
+[2025-05-09 21:55:21] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:21] Vida restante de Solaire de Astora: 111
+[2025-05-09 21:55:21] No Muerto ha recibido 10 puntos de daño.
+[2025-05-09 21:55:21] Vida restante de No Muerto: 90
+[2025-05-09 21:55:21] Solaire de Astora ha recibido 3 puntos de daño.
+[2025-05-09 21:55:21] Vida restante de Solaire de Astora: 108
+[2025-05-09 21:57:12] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 21:57:12] Vida restante de No Muerto: 90
+[2025-05-09 21:57:12] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 21:57:12] Vida restante de Solaire de Astora: 147
+[2025-05-09 21:57:12] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 21:57:12] Vida restante de No Muerto: 80
+[2025-05-09 21:57:12] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 21:57:12] Vida restante de Solaire de Astora: 144
+[2025-05-09 21:57:12] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 21:57:12] Vida restante de No Muerto: 70
+[2025-05-09 21:57:12] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 21:57:12] Vida restante de Solaire de Astora: 141
+[2025-05-09 21:57:12] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 21:57:12] Vida restante de No Muerto: 60
+[2025-05-09 21:57:12] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 21:57:12] Vida restante de Solaire de Astora: 138
+[2025-05-09 21:57:13] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de No Muerto: 50
+[2025-05-09 21:57:13] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de Solaire de Astora: 135
+[2025-05-09 21:57:13] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de No Muerto: 40
+[2025-05-09 21:57:13] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de Solaire de Astora: 132
+[2025-05-09 21:57:13] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de No Muerto: 30
+[2025-05-09 21:57:13] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de Solaire de Astora: 129
+[2025-05-09 21:57:13] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de No Muerto: 20
+[2025-05-09 21:57:13] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de Solaire de Astora: 126
+[2025-05-09 21:57:13] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de No Muerto: 10
+[2025-05-09 21:57:13] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de Solaire de Astora: 123
+[2025-05-09 21:57:13] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 21:57:13] Vida restante de No Muerto: 0
+[2025-05-09 22:28:50] El jugador ha elegido la clase Guerrero.
+[2025-05-09 22:30:46] El jugador ha elegido la clase Guerrero.
+[2025-05-09 22:31:14] El jugador ha elegido la clase Guerrero.
+[2025-05-09 22:32:21] El jugador ha elegido la clase Guerrero.
+[2025-05-09 22:55:37] El jugador ha elegido la clase Guerrero.
+[2025-05-09 22:55:38] Ha aparecido Lobo Salvaje
+[2025-05-09 22:55:41] Ha aparecido Guerrero Oscuro
+[2025-05-09 22:55:43] Guerrero Oscuro ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:43] Vida restante de Guerrero Oscuro: 122
+[2025-05-09 22:55:43] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:43] Turno de Solaire de Astora
+[2025-05-09 22:55:43] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 22:55:43] Turno de Guerrero Oscuro
+[2025-05-09 22:55:43] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:43] Vida restante de Guerrero Oscuro: 118
+[2025-05-09 22:55:43] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:43] Turno de Solaire de Astora
+[2025-05-09 22:55:43] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 22:55:43] Turno de Guerrero Oscuro
+[2025-05-09 22:55:44] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:44] Vida restante de Guerrero Oscuro: 114
+[2025-05-09 22:55:44] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:44] Turno de Solaire de Astora
+[2025-05-09 22:55:44] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 22:55:44] Turno de Guerrero Oscuro
+[2025-05-09 22:55:44] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:44] Vida restante de Guerrero Oscuro: 110
+[2025-05-09 22:55:44] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:44] Turno de Solaire de Astora
+[2025-05-09 22:55:44] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 22:55:44] Turno de Guerrero Oscuro
+[2025-05-09 22:55:44] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:44] Vida restante de Guerrero Oscuro: 106
+[2025-05-09 22:55:44] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:44] Turno de Solaire de Astora
+[2025-05-09 22:55:44] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:44] Vida restante de Solaire de Astora: 142
+[2025-05-09 22:55:44] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 22:55:44] Turno de Guerrero Oscuro
+[2025-05-09 22:55:45] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:45] Vida restante de Guerrero Oscuro: 102
+[2025-05-09 22:55:45] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:45] Turno de Solaire de Astora
+[2025-05-09 22:55:45] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 22:55:45] Turno de Guerrero Oscuro
+[2025-05-09 22:55:45] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:45] Vida restante de Guerrero Oscuro: 98
+[2025-05-09 22:55:45] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:45] Turno de Solaire de Astora
+[2025-05-09 22:55:45] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:45] Vida restante de Solaire de Astora: 134
+[2025-05-09 22:55:45] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 22:55:45] Turno de Guerrero Oscuro
+[2025-05-09 22:55:46] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:46] Vida restante de Guerrero Oscuro: 94
+[2025-05-09 22:55:46] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:46] Turno de Solaire de Astora
+[2025-05-09 22:55:46] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:46] Vida restante de Solaire de Astora: 126
+[2025-05-09 22:55:46] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:46] Turno de Guerrero Oscuro
+[2025-05-09 22:55:46] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:46] Vida restante de Guerrero Oscuro: 90
+[2025-05-09 22:55:46] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:46] Turno de Solaire de Astora
+[2025-05-09 22:55:46] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 22:55:46] Turno de Guerrero Oscuro
+[2025-05-09 22:55:46] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:46] Vida restante de Guerrero Oscuro: 86
+[2025-05-09 22:55:46] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:46] Turno de Solaire de Astora
+[2025-05-09 22:55:46] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:46] Vida restante de Solaire de Astora: 118
+[2025-05-09 22:55:46] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:46] Turno de Guerrero Oscuro
+[2025-05-09 22:55:46] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:46] Vida restante de Guerrero Oscuro: 82
+[2025-05-09 22:55:46] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:46] Turno de Solaire de Astora
+[2025-05-09 22:55:46] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:46] Vida restante de Solaire de Astora: 110
+[2025-05-09 22:55:46] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 22:55:46] Turno de Guerrero Oscuro
+[2025-05-09 22:55:47] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:47] Vida restante de Guerrero Oscuro: 78
+[2025-05-09 22:55:47] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:47] Turno de Solaire de Astora
+[2025-05-09 22:55:47] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:47] Vida restante de Solaire de Astora: 102
+[2025-05-09 22:55:47] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 22:55:47] Turno de Guerrero Oscuro
+[2025-05-09 22:55:47] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:47] Vida restante de Guerrero Oscuro: 74
+[2025-05-09 22:55:47] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:47] Turno de Solaire de Astora
+[2025-05-09 22:55:47] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 22:55:47] Turno de Guerrero Oscuro
+[2025-05-09 22:55:47] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:47] Vida restante de Guerrero Oscuro: 70
+[2025-05-09 22:55:47] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:47] Turno de Solaire de Astora
+[2025-05-09 22:55:47] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:47] Vida restante de Solaire de Astora: 94
+[2025-05-09 22:55:47] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 22:55:47] Turno de Guerrero Oscuro
+[2025-05-09 22:55:47] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:47] Vida restante de Guerrero Oscuro: 66
+[2025-05-09 22:55:47] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:47] Turno de Solaire de Astora
+[2025-05-09 22:55:47] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:47] Vida restante de Solaire de Astora: 86
+[2025-05-09 22:55:47] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:47] Turno de Guerrero Oscuro
+[2025-05-09 22:55:48] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:48] Vida restante de Guerrero Oscuro: 62
+[2025-05-09 22:55:48] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:48] Turno de Solaire de Astora
+[2025-05-09 22:55:48] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:48] Vida restante de Solaire de Astora: 78
+[2025-05-09 22:55:48] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:48] Turno de Guerrero Oscuro
+[2025-05-09 22:55:48] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:48] Vida restante de Guerrero Oscuro: 58
+[2025-05-09 22:55:48] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:48] Turno de Solaire de Astora
+[2025-05-09 22:55:48] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:48] Vida restante de Solaire de Astora: 70
+[2025-05-09 22:55:48] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:48] Turno de Guerrero Oscuro
+[2025-05-09 22:55:48] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:48] Vida restante de Guerrero Oscuro: 54
+[2025-05-09 22:55:48] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:48] Turno de Solaire de Astora
+[2025-05-09 22:55:48] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:48] Vida restante de Solaire de Astora: 62
+[2025-05-09 22:55:48] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:48] Turno de Guerrero Oscuro
+[2025-05-09 22:55:48] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:48] Vida restante de Guerrero Oscuro: 50
+[2025-05-09 22:55:48] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:48] Turno de Solaire de Astora
+[2025-05-09 22:55:48] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:48] Vida restante de Solaire de Astora: 54
+[2025-05-09 22:55:48] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:48] Turno de Guerrero Oscuro
+[2025-05-09 22:55:49] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:49] Vida restante de Guerrero Oscuro: 46
+[2025-05-09 22:55:49] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:49] Turno de Solaire de Astora
+[2025-05-09 22:55:49] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:49] Vida restante de Solaire de Astora: 46
+[2025-05-09 22:55:49] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 22:55:49] Turno de Guerrero Oscuro
+[2025-05-09 22:55:49] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:49] Vida restante de Guerrero Oscuro: 42
+[2025-05-09 22:55:49] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:49] Turno de Solaire de Astora
+[2025-05-09 22:55:49] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:49] Vida restante de Solaire de Astora: 38
+[2025-05-09 22:55:49] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:49] Turno de Guerrero Oscuro
+[2025-05-09 22:55:49] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:49] Vida restante de Guerrero Oscuro: 38
+[2025-05-09 22:55:49] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:49] Turno de Solaire de Astora
+[2025-05-09 22:55:49] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 22:55:49] Turno de Guerrero Oscuro
+[2025-05-09 22:55:50] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:50] Vida restante de Guerrero Oscuro: 34
+[2025-05-09 22:55:50] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:50] Turno de Solaire de Astora
+[2025-05-09 22:55:50] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 22:55:50] Turno de Guerrero Oscuro
+[2025-05-09 22:55:50] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:50] Vida restante de Guerrero Oscuro: 30
+[2025-05-09 22:55:50] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:50] Turno de Solaire de Astora
+[2025-05-09 22:55:50] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:50] Vida restante de Solaire de Astora: 30
+[2025-05-09 22:55:50] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 22:55:50] Turno de Guerrero Oscuro
+[2025-05-09 22:55:50] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:50] Vida restante de Guerrero Oscuro: 26
+[2025-05-09 22:55:50] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:50] Turno de Solaire de Astora
+[2025-05-09 22:55:50] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:50] Vida restante de Solaire de Astora: 22
+[2025-05-09 22:55:50] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:50] Turno de Guerrero Oscuro
+[2025-05-09 22:55:50] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:50] Vida restante de Guerrero Oscuro: 22
+[2025-05-09 22:55:50] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:50] Turno de Solaire de Astora
+[2025-05-09 22:55:50] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:50] Vida restante de Solaire de Astora: 14
+[2025-05-09 22:55:50] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:50] Turno de Guerrero Oscuro
+[2025-05-09 22:55:51] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:51] Vida restante de Guerrero Oscuro: 18
+[2025-05-09 22:55:51] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:51] Turno de Solaire de Astora
+[2025-05-09 22:55:51] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 22:55:51] Vida restante de Solaire de Astora: 6
+[2025-05-09 22:55:51] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 22:55:51] Turno de Guerrero Oscuro
+[2025-05-09 22:55:51] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:51] Vida restante de Guerrero Oscuro: 14
+[2025-05-09 22:55:51] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:51] Turno de Solaire de Astora
+[2025-05-09 22:55:51] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 22:55:51] Turno de Guerrero Oscuro
+[2025-05-09 22:55:51] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 22:55:51] Vida restante de Guerrero Oscuro: 10
+[2025-05-09 22:55:51] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 22:55:51] Turno de Solaire de Astora
+[2025-05-09 22:55:51] EVENTO: Solaire de Astora ha sido derrotado.
+[2025-05-09 22:55:51] Turno de Guerrero Oscuro
+[2025-05-09 22:55:51] Solaire de Astora ha muerto.
+[2025-05-09 22:55:51] Solaire de Astora entra en el Castillo de Lothdric.
+[2025-05-09 23:12:35] El jugador ha elegido la clase Chamán.
+[2025-05-09 23:12:35] Ha aparecido Guerrero Oscuro
+[2025-05-09 23:12:42] Ha aparecido No Muerto
+[2025-05-09 23:12:42] No Muerto ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:12:42] Vida restante de No Muerto: 96
+[2025-05-09 23:12:42] Chaman ataca a No Muerto
+[2025-05-09 23:12:42] Turno de Chaman
+[2025-05-09 23:12:42] No Muerto se defiende de Chaman
+[2025-05-09 23:12:42] Turno de No Muerto
+[2025-05-09 23:12:43] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:43] Vida restante de No Muerto: 94
+[2025-05-09 23:12:43] Chaman ataca a No Muerto
+[2025-05-09 23:12:43] Turno de Chaman
+[2025-05-09 23:12:43] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:43] Vida restante de Chaman: 115
+[2025-05-09 23:12:43] No Muerto ataca a Chaman
+[2025-05-09 23:12:43] Turno de No Muerto
+[2025-05-09 23:12:43] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:43] Vida restante de No Muerto: 92
+[2025-05-09 23:12:43] Chaman ataca a No Muerto
+[2025-05-09 23:12:43] Turno de Chaman
+[2025-05-09 23:12:43] No Muerto se defiende de Chaman
+[2025-05-09 23:12:43] Turno de No Muerto
+[2025-05-09 23:12:44] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:44] Vida restante de No Muerto: 90
+[2025-05-09 23:12:44] Chaman ataca a No Muerto
+[2025-05-09 23:12:44] Turno de Chaman
+[2025-05-09 23:12:44] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:44] Vida restante de Chaman: 110
+[2025-05-09 23:12:44] No Muerto usa su ataque especial.
+[2025-05-09 23:12:44] Turno de No Muerto
+[2025-05-09 23:12:44] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:44] Vida restante de No Muerto: 88
+[2025-05-09 23:12:44] Chaman ataca a No Muerto
+[2025-05-09 23:12:44] Turno de Chaman
+[2025-05-09 23:12:44] No Muerto se defiende de Chaman
+[2025-05-09 23:12:44] Turno de No Muerto
+[2025-05-09 23:12:44] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:44] Vida restante de No Muerto: 86
+[2025-05-09 23:12:44] Chaman ataca a No Muerto
+[2025-05-09 23:12:44] Turno de Chaman
+[2025-05-09 23:12:44] No Muerto se defiende de Chaman
+[2025-05-09 23:12:44] Turno de No Muerto
+[2025-05-09 23:12:45] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:45] Vida restante de No Muerto: 84
+[2025-05-09 23:12:45] Chaman ataca a No Muerto
+[2025-05-09 23:12:45] Turno de Chaman
+[2025-05-09 23:12:45] No Muerto se defiende de Chaman
+[2025-05-09 23:12:45] Turno de No Muerto
+[2025-05-09 23:12:45] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:45] Vida restante de No Muerto: 82
+[2025-05-09 23:12:45] Chaman ataca a No Muerto
+[2025-05-09 23:12:45] Turno de Chaman
+[2025-05-09 23:12:45] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:45] Vida restante de Chaman: 105
+[2025-05-09 23:12:45] No Muerto ataca a Chaman
+[2025-05-09 23:12:45] Turno de No Muerto
+[2025-05-09 23:12:45] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:45] Vida restante de No Muerto: 80
+[2025-05-09 23:12:45] Chaman ataca a No Muerto
+[2025-05-09 23:12:45] Turno de Chaman
+[2025-05-09 23:12:45] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:45] Vida restante de Chaman: 100
+[2025-05-09 23:12:45] No Muerto ataca a Chaman
+[2025-05-09 23:12:45] Turno de No Muerto
+[2025-05-09 23:12:46] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:46] Vida restante de No Muerto: 78
+[2025-05-09 23:12:46] Chaman ataca a No Muerto
+[2025-05-09 23:12:46] Turno de Chaman
+[2025-05-09 23:12:46] No Muerto se defiende de Chaman
+[2025-05-09 23:12:46] Turno de No Muerto
+[2025-05-09 23:12:46] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:46] Vida restante de No Muerto: 76
+[2025-05-09 23:12:46] Chaman ataca a No Muerto
+[2025-05-09 23:12:46] Turno de Chaman
+[2025-05-09 23:12:46] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:46] Vida restante de Chaman: 95
+[2025-05-09 23:12:46] No Muerto usa su ataque especial.
+[2025-05-09 23:12:46] Turno de No Muerto
+[2025-05-09 23:12:46] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:46] Vida restante de No Muerto: 74
+[2025-05-09 23:12:46] Chaman ataca a No Muerto
+[2025-05-09 23:12:46] Turno de Chaman
+[2025-05-09 23:12:46] No Muerto se defiende de Chaman
+[2025-05-09 23:12:46] Turno de No Muerto
+[2025-05-09 23:12:46] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:46] Vida restante de No Muerto: 72
+[2025-05-09 23:12:46] Chaman ataca a No Muerto
+[2025-05-09 23:12:46] Turno de Chaman
+[2025-05-09 23:12:46] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:46] Vida restante de Chaman: 90
+[2025-05-09 23:12:46] No Muerto ataca a Chaman
+[2025-05-09 23:12:46] Turno de No Muerto
+[2025-05-09 23:12:47] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:47] Vida restante de No Muerto: 70
+[2025-05-09 23:12:47] Chaman ataca a No Muerto
+[2025-05-09 23:12:47] Turno de Chaman
+[2025-05-09 23:12:47] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:47] Vida restante de Chaman: 85
+[2025-05-09 23:12:47] No Muerto ataca a Chaman
+[2025-05-09 23:12:47] Turno de No Muerto
+[2025-05-09 23:12:47] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:47] Vida restante de No Muerto: 68
+[2025-05-09 23:12:47] Chaman ataca a No Muerto
+[2025-05-09 23:12:47] Turno de Chaman
+[2025-05-09 23:12:47] No Muerto se defiende de Chaman
+[2025-05-09 23:12:47] Turno de No Muerto
+[2025-05-09 23:12:47] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:47] Vida restante de No Muerto: 66
+[2025-05-09 23:12:47] Chaman ataca a No Muerto
+[2025-05-09 23:12:47] Turno de Chaman
+[2025-05-09 23:12:47] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:47] Vida restante de Chaman: 80
+[2025-05-09 23:12:47] No Muerto usa su ataque especial.
+[2025-05-09 23:12:47] Turno de No Muerto
+[2025-05-09 23:12:47] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:47] Vida restante de No Muerto: 64
+[2025-05-09 23:12:47] Chaman ataca a No Muerto
+[2025-05-09 23:12:47] Turno de Chaman
+[2025-05-09 23:12:47] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:47] Vida restante de Chaman: 75
+[2025-05-09 23:12:47] No Muerto usa su ataque especial.
+[2025-05-09 23:12:47] Turno de No Muerto
+[2025-05-09 23:12:48] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:48] Vida restante de No Muerto: 62
+[2025-05-09 23:12:48] Chaman ataca a No Muerto
+[2025-05-09 23:12:48] Turno de Chaman
+[2025-05-09 23:12:48] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:48] Vida restante de Chaman: 70
+[2025-05-09 23:12:48] No Muerto ataca a Chaman
+[2025-05-09 23:12:48] Turno de No Muerto
+[2025-05-09 23:12:48] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:48] Vida restante de No Muerto: 60
+[2025-05-09 23:12:48] Chaman ataca a No Muerto
+[2025-05-09 23:12:48] Turno de Chaman
+[2025-05-09 23:12:48] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:48] Vida restante de Chaman: 65
+[2025-05-09 23:12:48] No Muerto ataca a Chaman
+[2025-05-09 23:12:48] Turno de No Muerto
+[2025-05-09 23:12:48] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:48] Vida restante de No Muerto: 58
+[2025-05-09 23:12:48] Chaman ataca a No Muerto
+[2025-05-09 23:12:48] Turno de Chaman
+[2025-05-09 23:12:48] No Muerto se defiende de Chaman
+[2025-05-09 23:12:48] Turno de No Muerto
+[2025-05-09 23:12:49] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:49] Vida restante de No Muerto: 56
+[2025-05-09 23:12:49] Chaman ataca a No Muerto
+[2025-05-09 23:12:49] Turno de Chaman
+[2025-05-09 23:12:49] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:49] Vida restante de Chaman: 60
+[2025-05-09 23:12:49] No Muerto ataca a Chaman
+[2025-05-09 23:12:49] Turno de No Muerto
+[2025-05-09 23:12:49] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:49] Vida restante de No Muerto: 54
+[2025-05-09 23:12:49] Chaman ataca a No Muerto
+[2025-05-09 23:12:49] Turno de Chaman
+[2025-05-09 23:12:49] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:49] Vida restante de Chaman: 55
+[2025-05-09 23:12:49] No Muerto ataca a Chaman
+[2025-05-09 23:12:49] Turno de No Muerto
+[2025-05-09 23:12:49] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:49] Vida restante de No Muerto: 52
+[2025-05-09 23:12:49] Chaman ataca a No Muerto
+[2025-05-09 23:12:49] Turno de Chaman
+[2025-05-09 23:12:49] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:49] Vida restante de Chaman: 50
+[2025-05-09 23:12:49] No Muerto ataca a Chaman
+[2025-05-09 23:12:49] Turno de No Muerto
+[2025-05-09 23:12:49] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:49] Vida restante de No Muerto: 50
+[2025-05-09 23:12:49] Chaman ataca a No Muerto
+[2025-05-09 23:12:49] Turno de Chaman
+[2025-05-09 23:12:49] No Muerto se defiende de Chaman
+[2025-05-09 23:12:49] Turno de No Muerto
+[2025-05-09 23:12:50] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:50] Vida restante de No Muerto: 48
+[2025-05-09 23:12:50] Chaman ataca a No Muerto
+[2025-05-09 23:12:50] Turno de Chaman
+[2025-05-09 23:12:50] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:50] Vida restante de Chaman: 45
+[2025-05-09 23:12:50] No Muerto ataca a Chaman
+[2025-05-09 23:12:50] Turno de No Muerto
+[2025-05-09 23:12:50] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:50] Vida restante de No Muerto: 46
+[2025-05-09 23:12:50] Chaman ataca a No Muerto
+[2025-05-09 23:12:50] Turno de Chaman
+[2025-05-09 23:12:50] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:50] Vida restante de Chaman: 40
+[2025-05-09 23:12:50] No Muerto usa su ataque especial.
+[2025-05-09 23:12:50] Turno de No Muerto
+[2025-05-09 23:12:50] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:50] Vida restante de No Muerto: 44
+[2025-05-09 23:12:50] Chaman ataca a No Muerto
+[2025-05-09 23:12:50] Turno de Chaman
+[2025-05-09 23:12:50] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:50] Vida restante de Chaman: 35
+[2025-05-09 23:12:50] No Muerto usa su ataque especial.
+[2025-05-09 23:12:50] Turno de No Muerto
+[2025-05-09 23:12:51] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:51] Vida restante de No Muerto: 42
+[2025-05-09 23:12:51] Chaman ataca a No Muerto
+[2025-05-09 23:12:51] Turno de Chaman
+[2025-05-09 23:12:51] No Muerto se defiende de Chaman
+[2025-05-09 23:12:51] Turno de No Muerto
+[2025-05-09 23:12:51] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:51] Vida restante de No Muerto: 40
+[2025-05-09 23:12:51] Chaman ataca a No Muerto
+[2025-05-09 23:12:51] Turno de Chaman
+[2025-05-09 23:12:51] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:51] Vida restante de Chaman: 30
+[2025-05-09 23:12:51] No Muerto ataca a Chaman
+[2025-05-09 23:12:51] Turno de No Muerto
+[2025-05-09 23:12:51] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:51] Vida restante de No Muerto: 38
+[2025-05-09 23:12:51] Chaman ataca a No Muerto
+[2025-05-09 23:12:51] Turno de Chaman
+[2025-05-09 23:12:51] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:51] Vida restante de Chaman: 25
+[2025-05-09 23:12:51] No Muerto usa su ataque especial.
+[2025-05-09 23:12:51] Turno de No Muerto
+[2025-05-09 23:12:51] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:51] Vida restante de No Muerto: 36
+[2025-05-09 23:12:51] Chaman ataca a No Muerto
+[2025-05-09 23:12:51] Turno de Chaman
+[2025-05-09 23:12:51] No Muerto se defiende de Chaman
+[2025-05-09 23:12:51] Turno de No Muerto
+[2025-05-09 23:12:52] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:52] Vida restante de No Muerto: 34
+[2025-05-09 23:12:52] Chaman ataca a No Muerto
+[2025-05-09 23:12:52] Turno de Chaman
+[2025-05-09 23:12:52] No Muerto se defiende de Chaman
+[2025-05-09 23:12:52] Turno de No Muerto
+[2025-05-09 23:12:52] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:52] Vida restante de No Muerto: 32
+[2025-05-09 23:12:52] Chaman ataca a No Muerto
+[2025-05-09 23:12:52] Turno de Chaman
+[2025-05-09 23:12:52] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:52] Vida restante de Chaman: 20
+[2025-05-09 23:12:52] No Muerto ataca a Chaman
+[2025-05-09 23:12:52] Turno de No Muerto
+[2025-05-09 23:12:52] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:52] Vida restante de No Muerto: 30
+[2025-05-09 23:12:52] Chaman ataca a No Muerto
+[2025-05-09 23:12:52] Turno de Chaman
+[2025-05-09 23:12:52] No Muerto se defiende de Chaman
+[2025-05-09 23:12:52] Turno de No Muerto
+[2025-05-09 23:12:53] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:53] Vida restante de No Muerto: 28
+[2025-05-09 23:12:53] Chaman ataca a No Muerto
+[2025-05-09 23:12:53] Turno de Chaman
+[2025-05-09 23:12:53] No Muerto se defiende de Chaman
+[2025-05-09 23:12:53] Turno de No Muerto
+[2025-05-09 23:12:53] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:53] Vida restante de No Muerto: 26
+[2025-05-09 23:12:53] Chaman ataca a No Muerto
+[2025-05-09 23:12:53] Turno de Chaman
+[2025-05-09 23:12:53] No Muerto se defiende de Chaman
+[2025-05-09 23:12:53] Turno de No Muerto
+[2025-05-09 23:12:53] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:53] Vida restante de No Muerto: 24
+[2025-05-09 23:12:53] Chaman ataca a No Muerto
+[2025-05-09 23:12:53] Turno de Chaman
+[2025-05-09 23:12:53] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:53] Vida restante de Chaman: 15
+[2025-05-09 23:12:53] No Muerto usa su ataque especial.
+[2025-05-09 23:12:53] Turno de No Muerto
+[2025-05-09 23:12:54] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:54] Vida restante de No Muerto: 22
+[2025-05-09 23:12:54] Chaman ataca a No Muerto
+[2025-05-09 23:12:54] Turno de Chaman
+[2025-05-09 23:12:54] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:54] Vida restante de Chaman: 10
+[2025-05-09 23:12:54] No Muerto usa su ataque especial.
+[2025-05-09 23:12:54] Turno de No Muerto
+[2025-05-09 23:12:54] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:54] Vida restante de No Muerto: 20
+[2025-05-09 23:12:54] Chaman ataca a No Muerto
+[2025-05-09 23:12:54] Turno de Chaman
+[2025-05-09 23:12:54] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:54] Vida restante de Chaman: 5
+[2025-05-09 23:12:54] No Muerto ataca a Chaman
+[2025-05-09 23:12:54] Turno de No Muerto
+[2025-05-09 23:12:54] No Muerto ha recibido 2 puntos de daï¿½o.
+[2025-05-09 23:12:54] Vida restante de No Muerto: 18
+[2025-05-09 23:12:54] Chaman ataca a No Muerto
+[2025-05-09 23:12:54] Turno de Chaman
+[2025-05-09 23:12:54] Chaman ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:12:54] Vida restante de Chaman: 0
+[2025-05-09 23:12:54] No Muerto usa su ataque especial.
+[2025-05-09 23:12:54] Turno de No Muerto
+[2025-05-09 23:12:54] Chaman ha muerto.
+[2025-05-09 23:12:54] Chaman entra en el Camino de los sacrificios.
+[2025-05-09 23:14:14] El jugador ha elegido la clase Guerrero.
+[2025-05-09 23:14:15] Ha aparecido Lobo Salvaje
+[2025-05-09 23:14:17] Ha aparecido Guerrero Oscuro
+[2025-05-09 23:14:17] Guerrero Oscuro ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:17] Vida restante de Guerrero Oscuro: 122
+[2025-05-09 23:14:17] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:17] Turno de Solaire de Astora
+[2025-05-09 23:14:17] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:17] Vida restante de Solaire de Astora: 142
+[2025-05-09 23:14:17] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:17] Turno de Guerrero Oscuro
+[2025-05-09 23:14:18] Guerrero Oscuro ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:18] Vida restante de Guerrero Oscuro: 114
+[2025-05-09 23:14:18] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:18] Turno de Solaire de Astora
+[2025-05-09 23:14:18] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:18] Vida restante de Solaire de Astora: 134
+[2025-05-09 23:14:18] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 23:14:18] Turno de Guerrero Oscuro
+[2025-05-09 23:14:18] Guerrero Oscuro ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:18] Vida restante de Guerrero Oscuro: 106
+[2025-05-09 23:14:18] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:18] Turno de Solaire de Astora
+[2025-05-09 23:14:18] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:18] Turno de Guerrero Oscuro
+[2025-05-09 23:14:19] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:19] Vida restante de Guerrero Oscuro: 102
+[2025-05-09 23:14:19] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:19] Turno de Solaire de Astora
+[2025-05-09 23:14:19] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:19] Vida restante de Solaire de Astora: 126
+[2025-05-09 23:14:19] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:19] Turno de Guerrero Oscuro
+[2025-05-09 23:14:19] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:19] Vida restante de Guerrero Oscuro: 98
+[2025-05-09 23:14:19] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:19] Turno de Solaire de Astora
+[2025-05-09 23:14:19] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:19] Vida restante de Solaire de Astora: 118
+[2025-05-09 23:14:19] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:19] Turno de Guerrero Oscuro
+[2025-05-09 23:14:19] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:19] Vida restante de Guerrero Oscuro: 94
+[2025-05-09 23:14:19] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:19] Turno de Solaire de Astora
+[2025-05-09 23:14:19] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:19] Vida restante de Solaire de Astora: 110
+[2025-05-09 23:14:19] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:19] Turno de Guerrero Oscuro
+[2025-05-09 23:14:20] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:20] Vida restante de Guerrero Oscuro: 90
+[2025-05-09 23:14:20] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:20] Turno de Solaire de Astora
+[2025-05-09 23:14:20] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:20] Turno de Guerrero Oscuro
+[2025-05-09 23:14:20] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:20] Vida restante de Guerrero Oscuro: 86
+[2025-05-09 23:14:20] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:20] Turno de Solaire de Astora
+[2025-05-09 23:14:20] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:20] Turno de Guerrero Oscuro
+[2025-05-09 23:14:20] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:20] Vida restante de Guerrero Oscuro: 82
+[2025-05-09 23:14:20] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:20] Turno de Solaire de Astora
+[2025-05-09 23:14:20] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:20] Vida restante de Solaire de Astora: 102
+[2025-05-09 23:14:20] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 23:14:20] Turno de Guerrero Oscuro
+[2025-05-09 23:14:21] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:21] Vida restante de Guerrero Oscuro: 78
+[2025-05-09 23:14:21] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:21] Turno de Solaire de Astora
+[2025-05-09 23:14:21] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:21] Turno de Guerrero Oscuro
+[2025-05-09 23:14:21] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:21] Vida restante de Guerrero Oscuro: 74
+[2025-05-09 23:14:21] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:21] Turno de Solaire de Astora
+[2025-05-09 23:14:21] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:21] Turno de Guerrero Oscuro
+[2025-05-09 23:14:22] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:22] Vida restante de Guerrero Oscuro: 70
+[2025-05-09 23:14:22] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:22] Turno de Solaire de Astora
+[2025-05-09 23:14:22] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:22] Vida restante de Solaire de Astora: 94
+[2025-05-09 23:14:22] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:22] Turno de Guerrero Oscuro
+[2025-05-09 23:14:22] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:22] Vida restante de Guerrero Oscuro: 66
+[2025-05-09 23:14:22] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:22] Turno de Solaire de Astora
+[2025-05-09 23:14:22] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:22] Vida restante de Solaire de Astora: 86
+[2025-05-09 23:14:22] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:22] Turno de Guerrero Oscuro
+[2025-05-09 23:14:22] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:22] Vida restante de Guerrero Oscuro: 62
+[2025-05-09 23:14:22] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:22] Turno de Solaire de Astora
+[2025-05-09 23:14:22] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:22] Vida restante de Solaire de Astora: 78
+[2025-05-09 23:14:22] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 23:14:22] Turno de Guerrero Oscuro
+[2025-05-09 23:14:23] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:23] Vida restante de Guerrero Oscuro: 58
+[2025-05-09 23:14:23] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:23] Turno de Solaire de Astora
+[2025-05-09 23:14:23] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:23] Turno de Guerrero Oscuro
+[2025-05-09 23:14:23] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:23] Vida restante de Guerrero Oscuro: 54
+[2025-05-09 23:14:23] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:23] Turno de Solaire de Astora
+[2025-05-09 23:14:23] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:23] Turno de Guerrero Oscuro
+[2025-05-09 23:14:23] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:23] Vida restante de Guerrero Oscuro: 50
+[2025-05-09 23:14:23] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:23] Turno de Solaire de Astora
+[2025-05-09 23:14:23] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:23] Vida restante de Solaire de Astora: 70
+[2025-05-09 23:14:23] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:23] Turno de Guerrero Oscuro
+[2025-05-09 23:14:24] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:24] Vida restante de Guerrero Oscuro: 46
+[2025-05-09 23:14:24] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:24] Turno de Solaire de Astora
+[2025-05-09 23:14:24] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:24] Vida restante de Solaire de Astora: 62
+[2025-05-09 23:14:24] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 23:14:24] Turno de Guerrero Oscuro
+[2025-05-09 23:14:24] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:24] Vida restante de Guerrero Oscuro: 42
+[2025-05-09 23:14:24] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:24] Turno de Solaire de Astora
+[2025-05-09 23:14:24] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:24] Vida restante de Solaire de Astora: 54
+[2025-05-09 23:14:24] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:24] Turno de Guerrero Oscuro
+[2025-05-09 23:14:25] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:25] Vida restante de Guerrero Oscuro: 38
+[2025-05-09 23:14:25] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:25] Turno de Solaire de Astora
+[2025-05-09 23:14:25] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:25] Turno de Guerrero Oscuro
+[2025-05-09 23:14:25] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:25] Vida restante de Guerrero Oscuro: 34
+[2025-05-09 23:14:25] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:25] Turno de Solaire de Astora
+[2025-05-09 23:14:25] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:25] Vida restante de Solaire de Astora: 46
+[2025-05-09 23:14:25] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:25] Turno de Guerrero Oscuro
+[2025-05-09 23:14:25] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:25] Vida restante de Guerrero Oscuro: 30
+[2025-05-09 23:14:25] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:25] Turno de Solaire de Astora
+[2025-05-09 23:14:25] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:25] Vida restante de Solaire de Astora: 38
+[2025-05-09 23:14:25] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:25] Turno de Guerrero Oscuro
+[2025-05-09 23:14:26] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:26] Vida restante de Guerrero Oscuro: 26
+[2025-05-09 23:14:26] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:26] Turno de Solaire de Astora
+[2025-05-09 23:14:26] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:26] Vida restante de Solaire de Astora: 30
+[2025-05-09 23:14:26] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:26] Turno de Guerrero Oscuro
+[2025-05-09 23:14:26] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:26] Vida restante de Guerrero Oscuro: 22
+[2025-05-09 23:14:26] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:26] Turno de Solaire de Astora
+[2025-05-09 23:14:26] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:26] Turno de Guerrero Oscuro
+[2025-05-09 23:14:27] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:27] Vida restante de Guerrero Oscuro: 18
+[2025-05-09 23:14:27] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:27] Turno de Solaire de Astora
+[2025-05-09 23:14:27] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:27] Turno de Guerrero Oscuro
+[2025-05-09 23:14:27] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:27] Vida restante de Guerrero Oscuro: 14
+[2025-05-09 23:14:27] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:27] Turno de Solaire de Astora
+[2025-05-09 23:14:27] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:27] Turno de Guerrero Oscuro
+[2025-05-09 23:14:29] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:29] Vida restante de Guerrero Oscuro: 10
+[2025-05-09 23:14:29] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:29] Turno de Solaire de Astora
+[2025-05-09 23:14:29] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:29] Vida restante de Solaire de Astora: 22
+[2025-05-09 23:14:29] Guerrero Oscuro usa su ataque especial.
+[2025-05-09 23:14:29] Turno de Guerrero Oscuro
+[2025-05-09 23:14:30] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:30] Vida restante de Guerrero Oscuro: 6
+[2025-05-09 23:14:30] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:30] Turno de Solaire de Astora
+[2025-05-09 23:14:30] Guerrero Oscuro se defiende de Solaire de Astora
+[2025-05-09 23:14:30] Turno de Guerrero Oscuro
+[2025-05-09 23:14:31] Guerrero Oscuro ha recibido 4 puntos de daï¿½o.
+[2025-05-09 23:14:31] Vida restante de Guerrero Oscuro: 2
+[2025-05-09 23:14:31] Solaire de Astora ataca a Guerrero Oscuro
+[2025-05-09 23:14:31] Turno de Solaire de Astora
+[2025-05-09 23:14:31] Solaire de Astora ha recibido 8 puntos de daï¿½o.
+[2025-05-09 23:14:31] Vida restante de Solaire de Astora: 14
+[2025-05-09 23:14:31] Guerrero Oscuro ataca a Solaire de Astora
+[2025-05-09 23:14:31] Turno de Guerrero Oscuro
+[2025-05-09 23:14:32] EVENTO: Guerrero Oscuro ha sido derrotado.
+[2025-05-09 23:14:32] Turno de Solaire de Astora
+[2025-05-09 23:14:32] Guerrero Oscuro ha muerto.
+[2025-05-09 23:14:32] Solaire de Astora entra en el Camino de los sacrificios.
+[2025-05-09 23:32:22] El jugador ha elegido la clase Guerrero.
+[2025-05-09 23:32:23] Ha aparecido Guerrero Oscuro
+[2025-05-09 23:32:34] Ha aparecido Lobo Salvaje
+[2025-05-09 23:32:34] Solaire de Astora ha recibido 0 puntos de daï¿½o.
+[2025-05-09 23:32:34] Vida restante de Solaire de Astora: 150
+[2025-05-09 23:32:34] Lobo Salvaje usa su ataque especial.
+[2025-05-09 23:32:34] Turno de Solaire de Astora
+[2025-05-09 23:32:35] Lobo Salvaje ha recibido 13 puntos de daï¿½o.
+[2025-05-09 23:32:35] Vida restante de Lobo Salvaje: 67
+[2025-05-09 23:32:35] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 23:32:35] Turno de Lobo Salvaje
+[2025-05-09 23:32:35] Solaire de Astora ha recibido 0 puntos de daï¿½o.
+[2025-05-09 23:32:35] Vida restante de Solaire de Astora: 150
+[2025-05-09 23:32:35] Lobo Salvaje usa su ataque especial.
+[2025-05-09 23:32:35] Turno de Solaire de Astora
+[2025-05-09 23:32:35] Lobo Salvaje ha recibido 13 puntos de daï¿½o.
+[2025-05-09 23:32:35] Vida restante de Lobo Salvaje: 54
+[2025-05-09 23:32:35] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 23:32:35] Turno de Lobo Salvaje
+[2025-05-09 23:32:35] Solaire de Astora ha recibido 0 puntos de daï¿½o.
+[2025-05-09 23:32:35] Vida restante de Solaire de Astora: 150
+[2025-05-09 23:32:35] Lobo Salvaje ataca a Solaire de Astora
+[2025-05-09 23:32:35] Turno de Solaire de Astora
+[2025-05-09 23:32:35] Lobo Salvaje ha recibido 13 puntos de daï¿½o.
+[2025-05-09 23:32:35] Vida restante de Lobo Salvaje: 41
+[2025-05-09 23:32:35] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 23:32:35] Turno de Lobo Salvaje
+[2025-05-09 23:32:35] Lobo Salvaje se defiende de Solaire de Astora
+[2025-05-09 23:32:35] Turno de Solaire de Astora
+[2025-05-09 23:32:36] Lobo Salvaje ha recibido 6 puntos de daï¿½o.
+[2025-05-09 23:32:36] Vida restante de Lobo Salvaje: 35
+[2025-05-09 23:32:36] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 23:32:36] Turno de Lobo Salvaje
+[2025-05-09 23:32:36] Solaire de Astora ha recibido 0 puntos de daï¿½o.
+[2025-05-09 23:32:36] Vida restante de Solaire de Astora: 150
+[2025-05-09 23:32:36] Lobo Salvaje ataca a Solaire de Astora
+[2025-05-09 23:32:36] Turno de Solaire de Astora
+[2025-05-09 23:32:36] Lobo Salvaje ha recibido 6 puntos de daï¿½o.
+[2025-05-09 23:32:36] Vida restante de Lobo Salvaje: 29
+[2025-05-09 23:32:36] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 23:32:36] Turno de Lobo Salvaje
+[2025-05-09 23:32:36] Solaire de Astora ha recibido 0 puntos de daï¿½o.
+[2025-05-09 23:32:36] Vida restante de Solaire de Astora: 150
+[2025-05-09 23:32:36] Lobo Salvaje usa su ataque especial.
+[2025-05-09 23:32:36] Turno de Solaire de Astora
+[2025-05-09 23:32:36] Lobo Salvaje ha recibido 6 puntos de daï¿½o.
+[2025-05-09 23:32:36] Vida restante de Lobo Salvaje: 23
+[2025-05-09 23:32:36] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 23:32:36] Turno de Lobo Salvaje
+[2025-05-09 23:32:36] Solaire de Astora ha recibido 0 puntos de daï¿½o.
+[2025-05-09 23:32:36] Vida restante de Solaire de Astora: 150
+[2025-05-09 23:32:36] Lobo Salvaje ataca a Solaire de Astora
+[2025-05-09 23:32:36] Turno de Solaire de Astora
+[2025-05-09 23:32:37] Lobo Salvaje ha recibido 6 puntos de daï¿½o.
+[2025-05-09 23:32:37] Vida restante de Lobo Salvaje: 17
+[2025-05-09 23:32:37] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 23:32:37] Turno de Lobo Salvaje
+[2025-05-09 23:32:37] Solaire de Astora ha recibido 0 puntos de daï¿½o.
+[2025-05-09 23:32:37] Vida restante de Solaire de Astora: 150
+[2025-05-09 23:32:37] Lobo Salvaje usa su ataque especial.
+[2025-05-09 23:32:37] Turno de Solaire de Astora
+[2025-05-09 23:32:37] Lobo Salvaje ha recibido 6 puntos de daï¿½o.
+[2025-05-09 23:32:37] Vida restante de Lobo Salvaje: 11
+[2025-05-09 23:32:37] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 23:32:37] Turno de Lobo Salvaje
+[2025-05-09 23:32:37] Solaire de Astora ha recibido 0 puntos de daï¿½o.
+[2025-05-09 23:32:37] Vida restante de Solaire de Astora: 150
+[2025-05-09 23:32:37] Lobo Salvaje ataca a Solaire de Astora
+[2025-05-09 23:32:37] Turno de Solaire de Astora
+[2025-05-09 23:32:37] Lobo Salvaje ha recibido 6 puntos de daï¿½o.
+[2025-05-09 23:32:37] Vida restante de Lobo Salvaje: 5
+[2025-05-09 23:32:37] Solaire de Astora ataca a Lobo Salvaje
+[2025-05-09 23:32:37] Turno de Lobo Salvaje
+[2025-05-09 23:32:37] Solaire de Astora ha recibido 0 puntos de daï¿½o.
+[2025-05-09 23:32:37] Vida restante de Solaire de Astora: 150
+[2025-05-09 23:32:37] Lobo Salvaje ataca a Solaire de Astora
+[2025-05-09 23:32:37] Turno de Solaire de Astora
+[2025-05-09 23:32:38] EVENTO: Lobo Salvaje ha sido derrotado.
+[2025-05-09 23:32:38] Turno de Lobo Salvaje
+[2025-05-09 23:32:38] Lobo Salvaje ha muerto.
+[2025-05-09 23:32:38] Solaire de Astora entra en el Castillo de Lothdric.
+[2025-05-09 23:32:38] Ha aparecido No Muerto
+[2025-05-09 23:32:38] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:38] Vida restante de Solaire de Astora: 147
+[2025-05-09 23:32:38] No Muerto ataca a Solaire de Astora
+[2025-05-09 23:32:38] Turno de Solaire de Astora
+[2025-05-09 23:32:39] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 23:32:39] Vida restante de No Muerto: 90
+[2025-05-09 23:32:39] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:39] Turno de No Muerto
+[2025-05-09 23:32:39] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:39] Vida restante de Solaire de Astora: 144
+[2025-05-09 23:32:39] No Muerto usa su ataque especial.
+[2025-05-09 23:32:39] Turno de Solaire de Astora
+[2025-05-09 23:32:39] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-09 23:32:39] Vida restante de No Muerto: 80
+[2025-05-09 23:32:39] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:39] Turno de No Muerto
+[2025-05-09 23:32:39] No Muerto se defiende de Solaire de Astora
+[2025-05-09 23:32:39] Turno de Solaire de Astora
+[2025-05-09 23:32:40] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:40] Vida restante de No Muerto: 75
+[2025-05-09 23:32:40] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:40] Turno de No Muerto
+[2025-05-09 23:32:40] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:40] Vida restante de Solaire de Astora: 141
+[2025-05-09 23:32:40] No Muerto ataca a Solaire de Astora
+[2025-05-09 23:32:40] Turno de Solaire de Astora
+[2025-05-09 23:32:40] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:40] Vida restante de No Muerto: 70
+[2025-05-09 23:32:40] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:40] Turno de No Muerto
+[2025-05-09 23:32:40] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:40] Vida restante de Solaire de Astora: 138
+[2025-05-09 23:32:40] No Muerto usa su ataque especial.
+[2025-05-09 23:32:40] Turno de Solaire de Astora
+[2025-05-09 23:32:41] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:41] Vida restante de No Muerto: 65
+[2025-05-09 23:32:41] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:41] Turno de No Muerto
+[2025-05-09 23:32:41] No Muerto se defiende de Solaire de Astora
+[2025-05-09 23:32:41] Turno de Solaire de Astora
+[2025-05-09 23:32:41] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:41] Vida restante de No Muerto: 60
+[2025-05-09 23:32:41] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:41] Turno de No Muerto
+[2025-05-09 23:32:41] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:41] Vida restante de Solaire de Astora: 135
+[2025-05-09 23:32:41] No Muerto ataca a Solaire de Astora
+[2025-05-09 23:32:41] Turno de Solaire de Astora
+[2025-05-09 23:32:41] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:41] Vida restante de No Muerto: 55
+[2025-05-09 23:32:41] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:41] Turno de No Muerto
+[2025-05-09 23:32:41] No Muerto se defiende de Solaire de Astora
+[2025-05-09 23:32:41] Turno de Solaire de Astora
+[2025-05-09 23:32:42] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:42] Vida restante de No Muerto: 50
+[2025-05-09 23:32:42] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:42] Turno de No Muerto
+[2025-05-09 23:32:42] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:42] Vida restante de Solaire de Astora: 132
+[2025-05-09 23:32:42] No Muerto ataca a Solaire de Astora
+[2025-05-09 23:32:42] Turno de Solaire de Astora
+[2025-05-09 23:32:42] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:42] Vida restante de No Muerto: 45
+[2025-05-09 23:32:42] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:42] Turno de No Muerto
+[2025-05-09 23:32:42] No Muerto se defiende de Solaire de Astora
+[2025-05-09 23:32:42] Turno de Solaire de Astora
+[2025-05-09 23:32:43] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:43] Vida restante de No Muerto: 40
+[2025-05-09 23:32:43] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:43] Turno de No Muerto
+[2025-05-09 23:32:43] No Muerto se defiende de Solaire de Astora
+[2025-05-09 23:32:43] Turno de Solaire de Astora
+[2025-05-09 23:32:43] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:43] Vida restante de No Muerto: 35
+[2025-05-09 23:32:43] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:43] Turno de No Muerto
+[2025-05-09 23:32:43] No Muerto se defiende de Solaire de Astora
+[2025-05-09 23:32:43] Turno de Solaire de Astora
+[2025-05-09 23:32:43] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:43] Vida restante de No Muerto: 30
+[2025-05-09 23:32:43] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:43] Turno de No Muerto
+[2025-05-09 23:32:43] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:43] Vida restante de Solaire de Astora: 129
+[2025-05-09 23:32:43] No Muerto ataca a Solaire de Astora
+[2025-05-09 23:32:43] Turno de Solaire de Astora
+[2025-05-09 23:32:44] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:44] Vida restante de No Muerto: 25
+[2025-05-09 23:32:44] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:44] Turno de No Muerto
+[2025-05-09 23:32:44] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:44] Vida restante de Solaire de Astora: 126
+[2025-05-09 23:32:44] No Muerto usa su ataque especial.
+[2025-05-09 23:32:44] Turno de Solaire de Astora
+[2025-05-09 23:32:44] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:44] Vida restante de No Muerto: 20
+[2025-05-09 23:32:44] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:44] Turno de No Muerto
+[2025-05-09 23:32:44] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:44] Vida restante de Solaire de Astora: 123
+[2025-05-09 23:32:44] No Muerto ataca a Solaire de Astora
+[2025-05-09 23:32:44] Turno de Solaire de Astora
+[2025-05-09 23:32:44] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:44] Vida restante de No Muerto: 15
+[2025-05-09 23:32:44] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:44] Turno de No Muerto
+[2025-05-09 23:32:44] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:44] Vida restante de Solaire de Astora: 120
+[2025-05-09 23:32:44] No Muerto ataca a Solaire de Astora
+[2025-05-09 23:32:44] Turno de Solaire de Astora
+[2025-05-09 23:32:45] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:45] Vida restante de No Muerto: 10
+[2025-05-09 23:32:45] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:45] Turno de No Muerto
+[2025-05-09 23:32:45] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:45] Vida restante de Solaire de Astora: 117
+[2025-05-09 23:32:45] No Muerto ataca a Solaire de Astora
+[2025-05-09 23:32:45] Turno de Solaire de Astora
+[2025-05-09 23:32:45] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:45] Vida restante de No Muerto: 5
+[2025-05-09 23:32:45] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:45] Turno de No Muerto
+[2025-05-09 23:32:45] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-09 23:32:45] Vida restante de Solaire de Astora: 114
+[2025-05-09 23:32:45] No Muerto usa su ataque especial.
+[2025-05-09 23:32:45] Turno de Solaire de Astora
+[2025-05-09 23:32:46] No Muerto ha recibido 5 puntos de daï¿½o.
+[2025-05-09 23:32:46] Vida restante de No Muerto: 0
+[2025-05-09 23:32:46] Solaire de Astora ataca a No Muerto
+[2025-05-09 23:32:46] Turno de No Muerto
+[2025-05-09 23:32:46] No Muerto ha muerto.
+[2025-05-09 23:32:46] Solaire de Astora entra en el Camino de los sacrificios.
+[2025-05-26 10:15:12] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-26 10:15:12] Vida restante de No Muerto: 90
+[2025-05-26 10:15:12] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-26 10:15:12] Vida restante de Solaire de Astora: 147
+[2025-05-26 10:15:13] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-26 10:15:13] Vida restante de No Muerto: 80
+[2025-05-26 10:15:13] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-26 10:15:13] Vida restante de Solaire de Astora: 144
+[2025-05-26 10:15:13] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-26 10:15:13] Vida restante de No Muerto: 70
+[2025-05-26 10:15:13] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-26 10:15:13] Vida restante de Solaire de Astora: 141
+[2025-05-26 10:15:13] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-26 10:15:13] Vida restante de No Muerto: 60
+[2025-05-26 10:15:13] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-26 10:15:13] Vida restante de Solaire de Astora: 138
+[2025-05-26 10:15:13] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-26 10:15:13] Vida restante de No Muerto: 50
+[2025-05-26 10:15:13] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-26 10:15:13] Vida restante de Solaire de Astora: 135
+[2025-05-26 10:15:14] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-26 10:15:14] Vida restante de No Muerto: 40
+[2025-05-26 10:15:14] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-26 10:15:14] Vida restante de Solaire de Astora: 132
+[2025-05-26 10:15:14] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-26 10:15:14] Vida restante de No Muerto: 30
+[2025-05-26 10:15:14] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-26 10:15:14] Vida restante de Solaire de Astora: 129
+[2025-05-26 10:15:14] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-26 10:15:14] Vida restante de No Muerto: 20
+[2025-05-26 10:15:14] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-26 10:15:14] Vida restante de Solaire de Astora: 126
+[2025-05-26 10:15:15] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-26 10:15:15] Vida restante de No Muerto: 10
+[2025-05-26 10:15:15] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-26 10:15:15] Vida restante de Solaire de Astora: 123
+[2025-05-26 10:15:15] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-26 10:15:15] Vida restante de No Muerto: 0
+[2025-05-28 09:34:31] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-28 09:34:31] Vida restante de No Muerto: 90
+[2025-05-28 09:34:31] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-28 09:34:31] Vida restante de Solaire de Astora: 147
+[2025-05-28 09:34:31] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-28 09:34:31] Vida restante de No Muerto: 80
+[2025-05-28 09:34:31] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-28 09:34:31] Vida restante de Solaire de Astora: 144
+[2025-05-28 09:34:31] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-28 09:34:31] Vida restante de No Muerto: 70
+[2025-05-28 09:34:31] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-28 09:34:31] Vida restante de Solaire de Astora: 141
+[2025-05-28 09:34:32] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-28 09:34:32] Vida restante de No Muerto: 60
+[2025-05-28 09:34:32] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-28 09:34:32] Vida restante de Solaire de Astora: 138
+[2025-05-28 09:34:32] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-28 09:34:32] Vida restante de No Muerto: 50
+[2025-05-28 09:34:32] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-28 09:34:32] Vida restante de Solaire de Astora: 135
+[2025-05-28 09:34:32] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-28 09:34:32] Vida restante de No Muerto: 40
+[2025-05-28 09:34:32] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-28 09:34:32] Vida restante de Solaire de Astora: 132
+[2025-05-28 09:34:32] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-28 09:34:32] Vida restante de No Muerto: 30
+[2025-05-28 09:34:32] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-28 09:34:32] Vida restante de Solaire de Astora: 129
+[2025-05-28 09:34:32] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-28 09:34:32] Vida restante de No Muerto: 20
+[2025-05-28 09:34:32] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-28 09:34:32] Vida restante de Solaire de Astora: 126
+[2025-05-28 09:34:33] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-28 09:34:33] Vida restante de No Muerto: 10
+[2025-05-28 09:34:33] Solaire de Astora ha recibido 3 puntos de daï¿½o.
+[2025-05-28 09:34:33] Vida restante de Solaire de Astora: 123
+[2025-05-28 09:34:33] No Muerto ha recibido 10 puntos de daï¿½o.
+[2025-05-28 09:34:33] Vida restante de No Muerto: 0
